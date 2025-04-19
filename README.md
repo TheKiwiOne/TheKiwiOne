@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, Cybersecurity, Gaming, Science, and Music.
 - 🌱 I’m currently learning C++, Java, Japanese, Python, and more.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 How to reach me ...
+- 📫 How to reach me TheKiwiOne@pm.me
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am currently a Cybersecurity Analyst.
 
